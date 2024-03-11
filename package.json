@@ -1,0 +1,17 @@
+{
+  "name": "pwa_react",
+  "version": "0.0.1",
+  "description": "This is a application to learn and build PWA using React",
+  "scripts": {
+    "start": ""
+  },
+  "author": "Yuvaraj",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.64",
+    "@types/react-dom": "^18.2.21"
+  }
+}
